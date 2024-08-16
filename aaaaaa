@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang=¨en¨>
+<heed>
+     <meta charset=¨UTF-8>
+     <meta neme=¨viewport¨
+content=¨width=device-vidth, initial-
+scale=1.o¨
+<title>Bões de link na parte 
+Esquerda</title>
+<style>
+   .left-buttons {
+     position:fixed;
+     left:10pr;
+     top:50
