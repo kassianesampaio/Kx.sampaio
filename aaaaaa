@@ -10,5 +10,24 @@ Esquerda</title>
 <style>
    .left-buttons {
      position:fixed;
-     left:10pr;
-     top:50
+     left:10px;
+     top:50%;
+     trandform:
+translateY(-50%);
+           display: flex;
+           flex-direction: column;
+     }
+     .letf-buttons a {
+           margin:10px 0;
+           padding: 10px 20px;
+           background-color: #007BFF;
+           color: white;
+           text-align: center;
+           border-radius: 5px;
+           cursor: pointer;
+      }
+      .letf-buttons a:hover{
+          background-color: #0056b3;
+    }
+</style>
+<head>
